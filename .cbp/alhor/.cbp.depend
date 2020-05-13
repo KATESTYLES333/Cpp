@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551906549 source:c:\users\hp\documents\algorithmization\.cbp\alhor\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

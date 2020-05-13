@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554498834 source:c:\users\hp\documents\algorithmization\tasks_alg\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+

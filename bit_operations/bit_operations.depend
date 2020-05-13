@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551707819 source:c:\users\hp\documents\algorithmization\bit_operations\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<ostream>
+

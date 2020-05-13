@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539857881 source:c:\users\hp\documents\laba1\pep\main.cpp
+	<iostream>
+	<cmath>
+
+1539858949 source:c:\users\hp\documents\laba1\pep\library.cpp
+	<iostream>
+	<cmath>
+

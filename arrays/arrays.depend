@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552916922 source:c:\users\hp\documents\algorithmization\arrays\main.cpp
+	<iostream>
+	<algorithm>
+	"Head.h"
+
+1552916856 c:\users\hp\documents\algorithmization\arrays\head.h
+	<iostream>
+	<algorithm>
+

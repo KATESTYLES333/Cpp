@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553202596 source:c:\users\hp\documents\algorithmization\list\main.cpp
+	<iostream>
+	<cstddef>
+	<initializer_list>
+	"list.h"
+
+1553202631 c:\users\hp\documents\algorithmization\list\list.h
+	<cstddef>
+	<initializer_list>
+

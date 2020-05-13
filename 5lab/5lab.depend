@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554452886 source:c:\users\hp\documents\algorithmization\5lab\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+	<algorithm>
+	<cmath>
+

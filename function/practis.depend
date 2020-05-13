@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551100217 source:c:\users\hp\documents\laba1\practis\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+

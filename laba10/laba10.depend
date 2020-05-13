@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545473117 source:c:\users\hp\documents\laba1\laba10\main.cpp
+	<iostream>
+	<cstdlib>
+
